@@ -8,7 +8,7 @@ function App() {
     <div className="wrapper">
         <header>Todo List</header>
         <div className="inputField">
-          <input type="text" placeholder="Enter new task" />
+          <input className="newTodo" type="text" placeholder="Enter new task" />
           <button> <i className="fas fa-plus"></i> </button>
         </div>
         <ul className="todoList">
