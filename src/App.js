@@ -1,9 +1,15 @@
 //import Add from './Add';
 // import Delete from './Delete';
 // import Complete from './Complete';
-// import Edit from './Edit';
+// import List from './List';
+// import data from './data.json';
+// import { useContext } from 'react';
 
 function App() {
+
+  
+
+
   return (
     <div className="wrapper">
         <header>Todo List</header>
@@ -13,7 +19,7 @@ function App() {
         </div>
         <ul className="todoList">
           <li className='done'>Todo Item 1 (Done example)<span> <i className="fa fa-trash"></i></span></li>
-          <li>Todo Item 2<span> <i className="fa fa-trash"></i></span></li>
+          <li className=''>Todo Item 2<span> <i className="fa fa-trash"></i></span></li>
         </ul>
       <div className="footer">
         <span>You have 1 pending tasks.</span>

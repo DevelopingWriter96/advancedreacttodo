@@ -1,0 +1,11 @@
+[{
+    "id" : 1,
+    "task" : "Todo Item 1 (Done example)",
+    "className" : "done"
+},
+{
+    "id" : 2,
+    "task" : "Todo Item 2",
+    "className" : ""
+}
+]
