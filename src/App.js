@@ -1,6 +1,5 @@
 //import Add from './Add';
 // import Delete from './Delete';
-// import Complete from './Complete';
 // import List from './List';
 // import data from './data.json';
 // import { useContext } from 'react';
@@ -17,7 +16,7 @@ function App() {
           <input className="newTodo" type="text" placeholder="Enter new task" />
           <button> <i className="fas fa-plus"></i> </button>
         </div>
-        <ul className="todoList">
+        <ul>
           <li className='done'>Todo Item 1 (Done example)<span> <i className="fa fa-trash"></i></span></li>
           <li className=''>Todo Item 2<span> <i className="fa fa-trash"></i></span></li>
         </ul>
