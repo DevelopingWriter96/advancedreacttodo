@@ -1,11 +1,21 @@
 [{
     "id" : 1,
-    "task" : "Todo Item 1 (Done example)",
+    "task" : "Wake Up",
     "className" : "done"
 },
 {
     "id" : 2,
-    "task" : "Todo Item 2",
+    "task" : "Finish React Assignment",
+    "className" : ""
+},
+{
+    "id" : 3,
+    "task" : "Pack Bag",
+    "className" : "done"
+},
+{
+    "id" : 4,
+    "task" : "Get ears washed out",
     "className" : ""
 }
 ]
