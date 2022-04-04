@@ -2,7 +2,7 @@
 // import Delete from './Delete';
 // import List from './List';
 // import data from './data.json';
-// import { useReducer, useContext } from 'react';
+// import { useContext } from 'react';
 
 function App() {
 
